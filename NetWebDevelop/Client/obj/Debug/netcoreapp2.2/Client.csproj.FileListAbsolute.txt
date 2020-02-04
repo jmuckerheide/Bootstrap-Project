@@ -1,0 +1,16 @@
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.json
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.dev.json
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\bin\Debug\netcoreapp2.2\Client.dll
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\bin\Debug\netcoreapp2.2\Client.pdb
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\obj\Debug\netcoreapp2.2\Client.csprojAssemblyReference.cache
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\obj\Debug\netcoreapp2.2\Client.RazorAssemblyInfo.cache
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\obj\Debug\netcoreapp2.2\Client.RazorAssemblyInfo.cs
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\obj\Debug\netcoreapp2.2\Client.RazorTargetAssemblyInfo.cache
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\obj\Debug\netcoreapp2.2\Client.dll
+C:\Users\Crispian\Documents\NetWebDevelopment\NetWebDevelop\Client\obj\Debug\netcoreapp2.2\Client.pdb
