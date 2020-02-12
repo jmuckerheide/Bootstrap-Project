@@ -14,7 +14,6 @@
         $('#code').html($(this).data('code'));
         $('#toast').toast({ autohide: false }).toast('show');
     });
-
     $(document).on('keyup', function(e) {
         if (e.key === "Escape") {
             $('#toast').toast('hide');
